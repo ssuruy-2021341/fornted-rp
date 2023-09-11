@@ -1,0 +1,95 @@
+body {
+    width: 100%;
+    background-repeat: inherit;
+    background-size: cover;
+    background-attachment: scroll;
+    background-image: url(/src/assets/arcade.webp);
+}
+
+.form{
+    padding-bottom: 10%;
+    border-radius: 20 5 20 5 ;
+    justify-content: center;
+}
+
+.container{
+    max-width: 65%;
+    border-radius: 20 5 20 5 ;
+    justify-items: baseline;
+}
+
+.h2, h2{
+    color: #5BFF33;
+    text-align: end;
+    margin-bottom: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-center{
+    color: #5BFF33;
+    margin-bottom: 10%;
+}
+
+
+.form-label {
+    width: 100%;
+    color:#5BFF33;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: black;
+    border-radius: 40 0 40 0;
+}
+
+.col-6{
+    padding: 4%;
+    font-size: large;
+    background-color: white;
+    border-radius: 20 20 20 20;
+}
+
+.btn{
+    margin-left: 15px; 
+    border-radius: 20 5 20 5 ;
+}
+
+.form-control{
+    width: 100%;
+    font-size: 20px;
+    border-radius: 20 0 20 0 ;
+}
+
+.col-auto{
+    margin-top: 20%;
+}
+
+.btn-info{
+    font-size: 22px;
+    margin-top: 100px;
+    border-radius: 20 5 20 5 ;
+}
+
+.stack-large {
+    color: blue;
+    background-color: black;
+}
+
+.btn-block {
+  border-radius: 40 0 40 0 ;
+  color: red;
+}
+
+.btn-peligro {
+    border-bottom-left-radius: 20 0 20 0;
+    background-color: red;
+}
+ .btn-editar { 
+    border-radius: 20 0 20 0;
+    background-color: orangered;
+ }
+
+ .card-text {
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ .card-title {
+    font-family: Arial, Helvetica, sans-serif;
+ }
